@@ -1,0 +1,9 @@
+[Core]
+Name = RunCmd
+Module = runcmd
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Connect to Linux hosts via ssh and run commands
